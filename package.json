@@ -1,5 +1,5 @@
 {
-  "name": "git-basics-lab",
+  "name": "git",
   "version": "1.0.0",
   "description": "## Objectives 1. Practice your GitHub command line skills 2. Create a remote repository on GitHub and connect it with a local folder",
   "directories": {
@@ -32,5 +32,6 @@
   },
   "dependencies": {
     "chai-fs": "^2.0.0"
-  }
+  },
+  "main": "index.js"
 }
